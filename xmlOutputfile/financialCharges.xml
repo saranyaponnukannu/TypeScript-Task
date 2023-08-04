@@ -1,0 +1,10 @@
+<FinancialCharges>
+  <Guest>
+      <GuestName>John Doe</GuestName>
+      <TotalAmount>700</TotalAmount>
+  </Guest>
+  <Guest>
+      <GuestName>Jane Smith</GuestName>
+      <TotalAmount>1200</TotalAmount>
+  </Guest>
+</FinancialCharges>

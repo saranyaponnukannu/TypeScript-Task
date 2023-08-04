@@ -1,0 +1,12 @@
+<FinancialPostings>
+  <Room Charge>
+      <GuestName>John Doe</GuestName>
+      <Amount>400</Amount>
+      <GuestName>Jane Smith</GuestName>
+      <Amount>600</Amount>
+  </Room Charge>
+  <Dining Charge>
+      <GuestName>John Doe</GuestName>
+      <Amount>100</Amount>
+  </Dining Charge>
+</FinancialPostings>
